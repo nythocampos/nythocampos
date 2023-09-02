@@ -2,7 +2,6 @@
 
 <h1 align="left">Hi, I'm Anthony</h1>
 I am a full-stack developer who loves to work with mixed reality.
-
   <div align="center">
     <img src="https://media.giphy.com/media/4TyNiRPbqRO9V98bpC/giphy.gif" width="600" height="300"/>
   </div>
@@ -35,7 +34,6 @@ At first, I worked as a frontend developer with JavaScript but now I'm focusing 
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
 </div>
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.terminal.svg" title="terminal" alt="terminal" width="480" height="306"/>&nbsp;
-
 <h2>Main languages</h2>
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nythocampos&hide_progress=true)
