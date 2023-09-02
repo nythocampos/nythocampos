@@ -41,6 +41,9 @@ I've worked in this industry for five years in different areas.
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?nythocampos=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
+ <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.terminal.svg" title="Arduino" alt="Arduino" width="480" height="306"/>&nbsp;
+
+
  
 <!--
 **nythocampos/nythocampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
