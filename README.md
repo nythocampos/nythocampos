@@ -1,18 +1,24 @@
-### Hi, I'm Anthony
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img align="left" src="https://media.giphy.com/media/11c7UUfN4eoHF6/giphy.gif" width="5%"></a> 
+  <img align="left" src="https://media.giphy.com/media/11c7UUfN4eoHF6/giphy.gif" width="5%"></a>
+   Hi, I'm Anthony 
+  <img align="right" src="https://media.giphy.com/media/11c7UUfN4eoHF6/giphy.gif" width="5%"></a> 
+  <img align="right" src="https://media.giphy.com/media/11c7UUfN4eoHF6/giphy.gif" width="5%"></a>
+</div>
+
+<div id="badges">
+  <a href="www.linkedin.com/in/nythocampos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>  
+  <a href="https://instagram.com/nytho86?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 </div>
 
 I am a full-stack developer who loves to work with mixed reality.
 
 I've worked in this industry for five years in different areas.
 
-<div align="left">
+<div align="center">
   <img src="https://media.giphy.com/media/4TyNiRPbqRO9V98bpC/giphy.gif" width="600" height="300"/>
 </div>
-
-
 
 # Technologies used
 
@@ -38,12 +44,12 @@ I've worked in this industry for five years in different areas.
 
  #  Main languages
 
-
+<!--
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?nythocampos=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.terminal.svg" title="Arduino" alt="Arduino" width="480" height="306"/>&nbsp;
 
-
+-->
  
 <!--
 **nythocampos/nythocampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
