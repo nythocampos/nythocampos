@@ -9,26 +9,19 @@ I am a full-stack developer who loves to work with mixed reality.
 
   <h2>Connect with me<h2>
   <div id="badges">
-    <a href="www.linkedin.com/in/nythocampos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>  
-    <a href="https://instagram.com/nytho86?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+    <a href="www.linkedin.com/in/nythocampos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nythocampos" height="30" width="40" /></a>  
+    <a href="https://instagram.com/nytho86?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nythocampos" height="30" width="40" /></a>
   </div>
-
 <h2>Skills</h2>
-
-I've worked in this industry for five four years in different areas.
-
-at first, I worked as a frontend developer with javascript but now I'm focusing on data analysis and backend with python.
-
+I've worked in this industry for four years in different areas.
+At first, I worked as a frontend developer with JavaScript but now I'm focusing on data analysis and backend with Python.
 <h2>Front-End</h2>
-
 <div align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
-
 <h2>Back-End</h2>
-
 <div align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
@@ -41,15 +34,8 @@ at first, I worked as a frontend developer with javascript but now I'm focusing 
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.terminal.svg" title="terminal" alt="terminal" width="480" height="306"/>&nbsp;
 </div>
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.terminal.svg" title="terminal" alt="terminal" width="480" height="306"/>&nbsp;
 
 <h2>Main languages</h2>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nythocampos&hide_progress=true)
-
-<!--
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
